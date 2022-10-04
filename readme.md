@@ -10,7 +10,7 @@ A lista fornecida pela banca está em ordem alfabética e está escrita por exte
 
 <h3><b>INSTALAÇÃO</b></h3>
 <ol>
-  <li>Baixe o aplicativo para o seu dispositivo android utilizando este link: https://drive.google.com/file/d/1u--J-K3fVkPuNkeObr37etZkJrg3NlFS/view?usp=sharing</li>
+  <li>Baixe o aplicativo para o seu dispositivo android utilizando este link: https://shorturl.at/gHRXY</li>
   <li>Encontre o arquivo no seu dispositivo (provavelmente na pasta "Downloads") e instale normalmente.</li>
   <li>É provável que você veja uma mensagem de segurança, pois este não é um app da Google Play Store. Basta acessar as suas configurações e permitir instalação de aplicativos de terceiros.</li>
 </ol>
